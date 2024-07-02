@@ -47,7 +47,7 @@ This repository is to be used as a _git playground_ for beginners to practice th
 
 ---
 
-### 📚 Tutorial References
+### 📚 Tutorial References!
 
 - 🔗 [Git Official Website](https://git-scm.com/)
 - 🔗 [GitHub](https://github.com/)
